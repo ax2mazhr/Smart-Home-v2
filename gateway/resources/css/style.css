@@ -1,0 +1,21 @@
+html{
+  position: relative;
+  min-height: 100%;
+  width: 100%;
+}
+
+body{
+  /*background-image: url(../img/bg.jpg) ;*/
+  background-color: white !important;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  overflow-x: auto;
+  width: 100%;
+}
+
+.container{
+	width: 100%;
+}
